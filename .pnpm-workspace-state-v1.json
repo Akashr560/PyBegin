@@ -1,0 +1,37 @@
+{
+  "lastValidatedTimestamp": 1789401884518,
+  "projects": {
+    "C:\\Users\\akash\\Downloads\\python-beginner-projects-main\\python-beginner-projects-main\\web": {
+      "name": "web",
+      "version": "0.1.0"
+    }
+  },
+  "pnpmfiles": [],
+  "settings": {
+    "autoInstallPeers": true,
+    "catalogs": {},
+    "dedupeDirectDeps": false,
+    "dedupeInjectedDeps": true,
+    "dedupePeerDependents": true,
+    "dedupePeers": false,
+    "dev": true,
+    "excludeLinksFromLockfile": false,
+    "hoistPattern": [
+      "*"
+    ],
+    "hoistWorkspacePackages": true,
+    "injectWorkspacePackages": false,
+    "linkWorkspacePackages": false,
+    "nodeLinker": "isolated",
+    "optional": true,
+    "overrides": {
+      "postcss@<8.5.10": ">=8.5.10"
+    },
+    "peersSuffixMaxLength": 1000,
+    "preferWorkspacePackages": false,
+    "production": true,
+    "publicHoistPattern": [],
+    "workspacePackagePatterns": []
+  },
+  "filteredInstall": false
+}
